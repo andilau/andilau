@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I’m currently solving [Advent of Code 2019](https://github.com/andilau/advent-of-code-2019)
+- I’m interested in backend technologies
+- Pronouns: he/him
+
 <!--
 **andilau/andilau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
