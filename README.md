@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently solving [Advent of Code 2019](https://github.com/andilau/advent-of-code-2019)
+- I’m currently solving [Advent of Code 2021](https://github.com/andilau/advent-of-code-2021)
 - I’m interested in backend technologies
 - Pronouns: he/him
 
