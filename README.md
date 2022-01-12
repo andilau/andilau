@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I build and break things.
-- I’m currently solving  [Advent of Code 2015](https://github.com/andilau/advent-of-code-2015).
 - I recently completed [Advent of Code 2021](https://github.com/andilau/advent-of-code-2021).
+- I’m currently solving  [Advent of Code 2015](https://github.com/andilau/advent-of-code-2015).
 - I’m currently learning [Cassandra](https://cassandra.apache.org/_/index.html).
 - I’m currently reading [Kotlin in Action](https://www.manning.com/books/kotlin-in-action).
 - Pronouns: he/him
