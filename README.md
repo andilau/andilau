@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🛠 I build and break things.
-- 🤩 I’m currently solving [Advent of Code 2019](https://github.com/andilau/advent-of-code-2019).
+- 🤩 I’m currently solving [Advent of Code 2016](https://github.com/andilau/advent-of-code-2016).
 - 🎉 I recently completed [Advent of Code 2015](https://github.com/andilau/advent-of-code-2015).
 - 🤓 I’m currently learning [Spring Security](https://spring.io/projects/spring-security).
 - 📚 I’m currently reading [Kotlin in Action](https://www.manning.com/books/kotlin-in-action).
